@@ -90,6 +90,6 @@ Si eres un desarrollador, puedes encontrar el código fuente
      debe asegurarse de agregar al grupo de permisos correcto (por lo general,
      los grupos <code> dialout </code> o <code> uucp </code>). También hay que
      asegurarse de que su distribución monta automáticamente dispositivos flash, o
-     Asegúrate de montarlos manualmente.</p>
+     asegúrate de montarlos manualmente.</p>
     </div>
 </div>
