@@ -14,7 +14,7 @@ herramienta `pip` incorporada de Python. Algunas distribuciones de Linux vienen 
 ya (y debe usar el administrador de paquetes de su sistema operativo para instalarlo). Finalmente,
 si está en Raspbian (la versión de Linux para Raspberry Pi) puede instalar Mu como un paquete.
 
-Si eres un desarrollador, puedes encontrar el código fuente.
+Si eres un desarrollador, puedes encontrar el código fuente
 [on GitHub](https://github.com/mu-editor/mu).
 
 <div class="media">
