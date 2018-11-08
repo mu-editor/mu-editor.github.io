@@ -16,7 +16,7 @@ Este es el caso con Mu.
 
 Si crees que ha encontrado un error, simplemente haga clic en el botón de abajo
 (necesita tener una cuenta en GitHub) y luego haga clic en el botón verde "Nuevo problema"
-Se encuentra en la parte superior derecha de la página:
+que se encuentra en la parte superior derecha de la página:
 
 <div class="row text-center">
 <p><a class="btn btn-lg btn-danger" href="https://github.com/mu-editor/mu/issues"
