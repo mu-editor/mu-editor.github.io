@@ -56,9 +56,9 @@ Press return and the editor should launch.
         Python 3 installed and that when Python was installed, you clicked the
         option that asks you if you'd like Python added to your path (you
         do).</li>
-        <li>You have a 32-bit system. Some of Mu's dependencies will not run on a
-        32-bit system, so you will need to upgrade your system or use a different
-        editor.</li>
+        <li>You have a 32-bit Linux system. Some of Mu's dependencies will not run 
+        on a 32-bit system, so you will need to upgrade your system or use a 
+        different editor.</li>
     </ul>
     <p>If you're still facing problems, perhaps try using another installation
     method (HINT: if you're on Windows or using OSX on a Mac, use the installer
