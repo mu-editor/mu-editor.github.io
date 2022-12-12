@@ -92,18 +92,3 @@ A few, however, require using the terminal to do it:
 
 As of Mu 1.1.1 running Mu requires using the Wayland display server.
 Other than that, double clicking Mu's AppImage works nicely.
-
-
-**Debian 11 (bulleye)**
-
-```
-QT_QPA_PLATFORM=wayland ./Downloads/Mu_Editor-1.1.1-x86_64.AppImage
-```
-
-
-**Ubuntu 22.04 LTS (Jammy Jellyfish)**
-
-```
-QT_QPA_PLATFORM=wayland ./Downloads/Mu_Editor-1.1.1-x86_64.AppImage
-```
-
