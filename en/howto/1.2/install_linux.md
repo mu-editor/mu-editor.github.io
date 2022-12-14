@@ -73,7 +73,7 @@ Bring up a terminal window and run the following commands:
 **Arch Linux**
 
 ```
-pacman -S libxcript-compat
+pacman -S libxcrypt-compat
 ```
 
 **Ubuntu 22.04 LTS (Jammy Jellyfish)**
