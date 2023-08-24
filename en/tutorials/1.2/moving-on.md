@@ -17,9 +17,6 @@ Here are some suggestions for what to explore next:
   REPL in Python 3 mode is a simplified version of a Jupyter notebook, so
   project Jupyter should immediately feel familiar. They also have a
   wonderfully friendly community.
-* [Atom](https://atom.io/) is a free and simple code editor with lots of
-  useful *optional* features. Made by the folks at GitHub, it works with many
-  different programming languages and on all the platforms supported by Mu.
 * [Visual Studio Code](https://code.visualstudio.com/) is a powerful yet easy
   to use cross platform code editor for many different programming languages.
   Microsoft have done a great job in supporting Python and
