@@ -37,9 +37,35 @@
       <link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
       <link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
     -->
+    <style>
+    /* Sticky message bar */
+    .message-bar {
+      position: sticky;
+      top: 0;
+      background-color: #e60000;
+      color: #fff;
+      text-align: center;
+      padding: 10px 20px;
+      font-size: 16px;
+      z-index: 1000;
+    }
+
+    /* Responsive behavior */
+    @media (max-width: 600px) {
+      .message-bar {
+        font-size: 14px;
+        padding: 8px 10px;
+      }
+    }
+    </style>
+
   </head>
 
   <body>
+      <div class="message-bar">
+      ⚠️ <strong>Mu is no longer maintained</strong> - the project has been
+      <a href="https://github.com/mu-editor">archived here</a>. ⚠️
+      </div>
       {% if page.i18n %}
         {% include nav_{{ page.i18n }}.html %}
       {% else %}
