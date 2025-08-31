@@ -1,5 +1,7 @@
 # codewith.mu
 
+** THIS PROJECT IS ARCHIVED AND NO LONGER MAINTAINED **
+
 This is the repository that generates the website https://codewith.mu
 
 It uses the GitHub pages functionality to build a Jekyll (a static site generator) project that gets published on each commit on master.
