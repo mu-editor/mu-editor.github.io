@@ -1,6 +1,6 @@
 # codewith.mu
 
-** THIS PROJECT IS ARCHIVED AND NO LONGER MAINTAINED **
+**THIS PROJECT IS ARCHIVED AND NO LONGER MAINTAINED**
 
 This is the repository that generates the website https://codewith.mu
 
