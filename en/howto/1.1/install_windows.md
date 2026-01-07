@@ -12,8 +12,9 @@ Mu works on 64 bit versions of Windows. It's a good idea to make sure your syste
 
 If you are in an educational setting you may need to get your system administrator to run the installer for you.
 
-**If you have an older version of Mu already installed, we recommend that you
-uninstall it first.**
+**If you have a version of Mu older than version 1.1 already installed, we recommend that you
+uninstall it first.  If you do not uninstall first, you will have two installations of Mu due to 
+packaging changes with Mu versions 1.1 and newer.**
 
 ## Step 1 - Download Mu Installer
 
